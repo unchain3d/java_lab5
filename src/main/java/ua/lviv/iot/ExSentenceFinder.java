@@ -30,3 +30,4 @@ public final class ExSentenceFinder {
         System.out.println("Очищений текст: " + finder.deleteSentencesWithExclamationMark(text));
     }
 }
+
